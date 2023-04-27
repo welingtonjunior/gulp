@@ -45,3 +45,17 @@ Todo o processo é executado a partir do node.js e gulp-cli (linha de comando)
 
 ## Trabalhando com Gulp
 - Baseado em funções: tasks
+- Organização do projeto
+- Otimização de arquivos
+- Mesclagem e Minificação de CSS e JS
+- Diminuição do tamanho (bytes) de imagens
+## Rodar o projeto
+- Executar o comando:
+npm install
+## Executar as Tarefas do Gulp
+### Minificação de Imagens:
+gulp images
+### Minificação do Javascript:
+gulp scripts
+### Minificação do CSS:
+gulp styles
